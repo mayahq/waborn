@@ -1,6 +1,3 @@
-<div align="center">
-<img src="https://raw.githubusercontent.com/open-wa/wa-automate-nodejs/master/resources/hotfix-logo.png" width="128" height="128"/>
-
 # waborn
 
 ### A fork of @open-wa/wa-automate from the good people at @open-wa
